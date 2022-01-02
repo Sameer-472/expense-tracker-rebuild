@@ -1,0 +1,27 @@
+#list li {
+    list-style-type: none;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.income {
+    background-color: rgb(141, 194, 173);
+}
+
+.outcome {
+    background-color: rgb(219, 108, 108);
+}
+
+#list-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    background-color: rgb(71, 133, 96);
+    padding: 4px;
+    border-radius: 10px;
+    color: white;
+}
