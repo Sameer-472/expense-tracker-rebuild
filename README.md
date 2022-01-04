@@ -7,5 +7,5 @@ Technology used in this project are:
 ⚡ surge (for deployment) </br>
 ⚡ PWA (for make it installable for desktop and mobile app) 
 
-<button>Live link</button>
+<button><a href="https://lonely-bedroom.surge.sh/" >LIVE LINK</a></button>
 
