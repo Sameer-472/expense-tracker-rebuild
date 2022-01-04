@@ -1,4 +1,4 @@
-Technology used in this project are:
+<h3> Technology used in this project are: </h3>
 
 ⚡ React </br>
 ⚡ Typescript </br>
