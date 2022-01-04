@@ -7,5 +7,5 @@
 ⚡ surge (for deployment) </br>
 ⚡ PWA (for make it installable for desktop and mobile app) 
 
-<button><a href="https://lonely-bedroom.surge.sh/" >LIVE LINK</a></button>
+<button><a href="https://lonely-bedroom.surge.sh/" target="_blank">LIVE LINK</a></button>
 
